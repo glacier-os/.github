@@ -1,4 +1,9 @@
 ## README under heavy development
+## Desktop Components:
+- [Cutefish](https://github.com/cutefishos), possibly the core of the entire project,
+- [EggWM](https://github.com/MoonLightDE/mlde.w.eggwm), the desktop's window manager (borrowed from MLDE),
+- [Vex](https://github.com/cryojet/vexmp-qt5), under development music player, and
+- [CFM](https://github.com/cutefishos/filemanager), the file manager.
 
 
 <!--
